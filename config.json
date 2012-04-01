@@ -7,22 +7,22 @@
   ],
   "access": {
     "admin": [
-      "AvianFlu",
-      "Marak",
-      "indexzero",
-      "hij1nx"
-    ],
+      "raynaya",
+	"yati"
+       ],
     "employee": [
-      "SubStack",
-      "bradleymeck",
-      "jameson",
+"raynaya",     
+  "jameson",
       "jesusabdullah",
       "slickplaid"
     ],
     "friend": [
-      "isaacs",
-      "indutny",
-      "ryah",
+      "PrecisePangolin",
+	"yati",
+      "sneha",
+	"raynaya_",
+	"yati_",	
+      "sbose78",
       "TheJH"
     ]
   },
@@ -55,11 +55,12 @@
   },
   "irc-server": "irc.freenode.net",
   "port": 6667,
-  "nick": "kohai-default",
-  "channels": ["#nodebombrange", "#kohai"],
+  "nick": "NixalBot2",
+  "channels": ["#trial","#nixal"],
   "showErrors": "true",
-  "userName": "kohai",
+  "userName": "NixalBot2",
   "realName": "the lovable IRC bot",
+  "password":"jack",
   "idCheck": true,
   "channelDefaults": {
     "commandString": "!",
